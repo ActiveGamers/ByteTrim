@@ -1,7 +1,7 @@
-# Video Minimizer 🎬
+# ByteTrim 🎬
 
 **Compress your videos effortlessly without losing quality!**  
-Video Minimizer is a lightweight, fast, and easy-to-use video compression tool that helps you reduce video file sizes while keeping the original quality. Perfect for sharing online or saving storage space.
+ByteTrim is a lightweight, fast, and easy-to-use video compression tool that helps you reduce video file sizes while keeping the original quality. Perfect for sharing online or saving storage space.
 
 ---
 
@@ -19,16 +19,15 @@ Video Minimizer is a lightweight, fast, and easy-to-use video compression tool t
 ## Installation 💻
 
 1. Download the [Installer](https://github.com/ActiveGamers/ByteTrim/releases) for Windows.
-2. Run the installer and follow the instructions.
-3. Optionally, run the application right after installation or open the GitHub page from the Finish Page checkboxes.
+2. run the application right after installation :)
 
-> ⚠️ Note: Video Minimizer is self-contained, so it does **not require .NET to be installed** on your system.
+> ✅ ByteTrim is self-contained, so it does **not require .NET to be installed** on your system.
 
 ---
 
 ## Usage 🎥
 
-1. Launch Video Minimizer from the desktop shortcut or start menu.
+1. Launch ByteTrim from the desktop shortcut or start menu.
 2. Select a folder containing videos you want to compress.
 3. Click **Compress** to reduce the video sizes.
 4. Check the output folder for your minimized videos.
