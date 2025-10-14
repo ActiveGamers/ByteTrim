@@ -1,0 +1,2 @@
+C:\Users\mabna\source\repos\VideoMinimizer\publish\VideoMinimizer.pdb
+C:\Users\mabna\source\repos\VideoMinimizer\publish\VideoMinimizer.exe

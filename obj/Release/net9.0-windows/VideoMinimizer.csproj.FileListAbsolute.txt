@@ -1,0 +1,16 @@
+C:\Users\mabna\source\repos\VideoMinimizer\bin\Release\net9.0-windows\VideoMinimizer.exe
+C:\Users\mabna\source\repos\VideoMinimizer\bin\Release\net9.0-windows\VideoMinimizer.deps.json
+C:\Users\mabna\source\repos\VideoMinimizer\bin\Release\net9.0-windows\VideoMinimizer.runtimeconfig.json
+C:\Users\mabna\source\repos\VideoMinimizer\bin\Release\net9.0-windows\VideoMinimizer.dll
+C:\Users\mabna\source\repos\VideoMinimizer\bin\Release\net9.0-windows\VideoMinimizer.pdb
+C:\Users\mabna\source\repos\VideoMinimizer\obj\Release\net9.0-windows\VideoMinimizer.MainForm.resources
+C:\Users\mabna\source\repos\VideoMinimizer\obj\Release\net9.0-windows\VideoMinimizer.csproj.GenerateResource.cache
+C:\Users\mabna\source\repos\VideoMinimizer\obj\Release\net9.0-windows\VideoMinimizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabna\source\repos\VideoMinimizer\obj\Release\net9.0-windows\VideoMinimizer.AssemblyInfoInputs.cache
+C:\Users\mabna\source\repos\VideoMinimizer\obj\Release\net9.0-windows\VideoMinimizer.AssemblyInfo.cs
+C:\Users\mabna\source\repos\VideoMinimizer\obj\Release\net9.0-windows\VideoMinimizer.csproj.CoreCompileInputs.cache
+C:\Users\mabna\source\repos\VideoMinimizer\obj\Release\net9.0-windows\VideoMinimizer.dll
+C:\Users\mabna\source\repos\VideoMinimizer\obj\Release\net9.0-windows\refint\VideoMinimizer.dll
+C:\Users\mabna\source\repos\VideoMinimizer\obj\Release\net9.0-windows\VideoMinimizer.pdb
+C:\Users\mabna\source\repos\VideoMinimizer\obj\Release\net9.0-windows\VideoMinimizer.genruntimeconfig.cache
+C:\Users\mabna\source\repos\VideoMinimizer\obj\Release\net9.0-windows\ref\VideoMinimizer.dll
