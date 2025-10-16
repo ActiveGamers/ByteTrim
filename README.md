@@ -49,6 +49,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Links 🔗
 
 - GitHub Repository: [https://github.com/ActiveGamers/ByteTrim](https://github.com/ActiveGamers/ByteTrim)
-- Tutorial Video On Upload Boy: [https://uploadb.me/j2mwwcf8qihd/ByteTrimToturial.mp4.html](https://uploadb.me/j2mwwcf8qihd/ByteTrimToturial.mp4.html
+- Tutorial Video On Upload Boy: [https://uploadb.me/j2mwwcf8qihd/ByteTrimToturial.mp4.html](https://uploadb.me/j2mwwcf8qihd/ByteTrimToturial.mp4.html)
 
 ### Made With ♥ In Iran by [ActiveGamers](https://github.com/ActiveGamers)
